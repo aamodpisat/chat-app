@@ -1,0 +1,29 @@
+{
+  "name": "chat-server",
+  "version": "0.0.1",
+  "description": "Chat server appllication",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamodpisat/chat-app.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Aamod P. Pisat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aamodpisat/chat-app/issues"
+  },
+  "homepage": "https://github.com/aamodpisat/chat-app#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
